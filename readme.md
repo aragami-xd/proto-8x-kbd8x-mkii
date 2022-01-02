@@ -1,6 +1,6 @@
-custom pcb for kbd8x-mkii based on my own personal preference
-any recommendations will be ignored and you will be banned, unless you point out fatal flaws in the pcb in which case you can stay
-insta ban if you mention iso support (if i decide to do it, it's gonna be for the BIGASS enter, will consider yeeting out the split left shift in the future)
+custom pcb for kbd8x-mkii based on my own personal preference<br>
+any recommendations will be ignored and you will be banned, unless you point out fatal flaws in the pcb in which case you can stay<br>
+insta ban if you mention iso support (if i decide to do it, it's gonna be for the BIGASS enter, will consider yeeting out the split left shift in the future)<br>
 
 based on [ai03's kbd8x-mkii's public repo pcb kicad file](https://github.com/ai03-2725/KBD8X-MKII-PCB/blob/master/KBD8X-MK2.kicad_pcb)
 
