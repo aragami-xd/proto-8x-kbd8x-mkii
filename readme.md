@@ -9,7 +9,7 @@ based on [ai03's kbd8x-mkii's public repo pcb kicad file](https://github.com/ai0
 todo list:
 - swap out mcu for a different one (good luck finding at32u4 for cheap)
 - add jst connector for shits and giggles (if i can use it for something funny i can yeet out the brass weight and use it)
-- possible alps support? if i can't get blue,amber or brown alps i can go for matias switches
+- ~~possible alps support? if i can't get blue,amber or brown alps i can go for matias switches~~
 - more meme cuts (maybe or maybe not)
 - make pcb thinner, 1.2mm? thinner pcb = better pcb rivet hotswap socket support
 - jis-like layout (but not really jis, either 4.5u layout or minila 3u layout)
