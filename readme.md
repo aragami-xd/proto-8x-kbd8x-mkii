@@ -15,9 +15,10 @@ Todo list:
 - More meme cuts (maybe or maybe not)
 - Make pcb thinner, 1.2mm? thinner pcb = better pcb rivet hotswap socket support
 - jis-like layout (but not really jis, either 4.5u layout or minila 3u layout)
-- ~~aek layout~~ ~~some aek or alps only layout will only be using alps only sockets (1.5u stepped caps lock, aek 6.5u bottom row). mx only layout will use mx only sockets (1.25u stepped caps lock, standard bottom row)~~ (AEK LAYOUT CANNOT WORK WITH 6.25u LAYOUT)
+- ~~aek layout~~ some aek or alps only layout will only be using alps only sockets (1.5u stepped caps lock, aek 6.5u bottom row). mx only layout will use mx only sockets (1.25u stepped caps lock, standard bottom row)
 
-Now split into 2 PCBs, one with standard 6.25u and tsangan 7u layout support, one with tsangan 7u and aek 6.5u supoprt
+Update: 6.25u can work with aek layout, but the 6.25u will have to be north facing. If you're using 6.25u standard bottom row chances are you're not using gmk sbacepar anyways so less worry about tolerance? the other 2 layouts will share the same 7u spacebar position
+
 
 ![pcb pics](pcb.PNG)
 

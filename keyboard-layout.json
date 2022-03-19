@@ -77,7 +77,7 @@
       "w2": 1.75,
       "l": true
     },
-    "Caps Lock\n\n\n\nAlps"
+    "Caps Lock\n\n\n\n(Alps) - (N)"
   ],
   [
     {
@@ -114,21 +114,20 @@
     {
       "y": -0.25,
       "c": "#aed4d4",
-      "w": 1.75
+      "w": 1.25,
+      "w2": 1.75,
+      "l": true
     },
-    "Caps Lock"
+    "Caps Lock\n\n\n\n(MX) - (S)"
   ],
   [
     {
       "y": -0.75,
       "x": 2.5,
-      "w": 1.25,
-      "w2": 1.75,
-      "l": true
+      "w": 1.75
     },
-    "Caps Lock\n\n\n\nMX",
+    "Caps Lock\n\n\n\n(S)",
     {
-      "x": 0.5,
       "c": "#cccccc"
     },
     "A",
@@ -145,7 +144,7 @@
     {
       "w": 2.25
     },
-    "Enter\n\n\n\n\n\n\n\n\n\nno iso lol"
+    "Enter\n\n\n\nno iso lol"
   ],
   [
     {
@@ -196,27 +195,27 @@
       "c": "#b8bfe6",
       "w": 1.5
     },
-    "Ctrl",
-    "Win",
+    "Ctrl\n\n\n\n(S)",
+    "Win\n\n\n\n(S)",
     {
       "w": 1.5
     },
-    "Alt",
+    "Alt\n\n\n\n(S)",
     {
       "a": 7,
       "w": 7
     },
-    "",
+    "\n\n\n\nTsangan - (S)",
     {
       "a": 4,
       "w": 1.5
     },
-    "Alt",
-    "Win",
+    "Alt\n\n\n\n(S)",
+    "Win\n\n\n\n(S)",
     {
       "w": 1.5
     },
-    "Ctrl",
+    "Ctrl\n\n\n\n(S)",
     {
       "x": 0.25,
       "c": "#cccccc"
@@ -227,74 +226,83 @@
   ],
   [
     {
-      "y": 0.25,
+      "y": -0.75,
+      "c": "#ffffff",
+      "w": 2.25,
+      "h": 3,
+      "d": true
+    },
+    "- (S): South facing switches<br><br>- (N): North facing switches<br><br>- (MX): MX only sockets<br><br>- (Alps): Alps only sockets"
+  ],
+  [
+    {
       "x": 2.5,
       "c": "#b8bfe6",
       "w": 1.25
     },
-    "Ctrl\n\n\n\nMX",
+    "Ctrl\n\n\n\n(N)",
     {
       "w": 1.25
     },
-    "Win\n\n\n\nMX",
+    "Win\n\n\n\n(N)",
     {
       "w": 1.25
     },
-    "Alt\n\n\n\nMX",
+    "Alt\n\n\n\n(N)",
     {
       "a": 7,
       "w": 6.25
     },
-    "\n\n\n\nMX",
+    "\n\n\n\nStandard - (N)",
     {
       "a": 4,
       "w": 1.25
     },
-    "Alt\n\n\n\nMX",
+    "Alt\n\n\n\n(N)",
     {
       "w": 1.25
     },
-    "Win\n\n\n\nMX",
+    "Win\n\n\n\n(N)",
     {
       "w": 1.25
     },
-    "Fn\n\n\n\nMX",
+    "Fn\n\n\n\n(N)",
     {
       "w": 1.25
     },
-    "Ctrl\n\n\n\nMX"
+    "Ctrl\n\n\n\n(N)"
   ],
   [
     {
       "x": 2.5,
       "w": 1.5
     },
-    "Ctrl\n\n\n\nAlps",
+    "Ctrl\n\n\n\n(S)",
     {
       "w": 1.25
     },
-    "Win\n\n\n\nAlps",
+    "Win\n\n\n\n(S)",
     {
       "w": 1.5
     },
-    "Alt\n\n\n\nAlps",
+    "Alt\n\n\n\n(S)",
     {
       "a": 7,
       "w": 6.5
     },
-    "\n\n\n\nAlps AEK",
+    "\n\n\n\nAEK - (S)",
     {
       "a": 4,
       "w": 1.5
     },
-    "Alt\n\n\n\nAlps",
+    "Alt\n\n\n\n(S)",
     {
       "w": 1.25
     },
-    "Win\n\n\n\nAlps",
+    "Win\n\n\n\n(S)",
     {
       "w": 1.5
     },
-    "Ctrl\n\n\n\nAlps"
+    "Ctrl\n\n\n\n(S)"
   ]
 ]
