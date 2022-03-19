@@ -17,6 +17,7 @@ Todo list:
 - jis-like layout (but not really jis, either 4.5u layout or minila 3u layout)
 - ~~aek layout~~ ~~some aek or alps only layout will only be using alps only sockets (1.5u stepped caps lock, aek 6.5u bottom row). mx only layout will use mx only sockets (1.25u stepped caps lock, standard bottom row)~~ (AEK LAYOUT CANNOT WORK WITH 6.25u LAYOUT)
 
+Now split into 2 PCBs, one with standard 6.25u and tsangan 7u layout support, one with tsangan 7u and aek 6.5u supoprt
 
 ![pcb pics](pcb.PNG)
 
