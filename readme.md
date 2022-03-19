@@ -15,11 +15,11 @@ Todo list:
 - More meme cuts (maybe or maybe not)
 - Make pcb thinner, 1.2mm? thinner pcb = better pcb rivet hotswap socket support
 - jis-like layout (but not really jis, either 4.5u layout or minila 3u layout)
-- ~~aek layout~~
+- ~~aek layout~~ ~~some aek or alps only layout will only be using alps only sockets (1.5u stepped caps lock, aek 6.5u bottom row). mx only layout will use mx only sockets (1.25u stepped caps lock, standard bottom row)~~ (AEK LAYOUT CANNOT WORK WITH 6.25u LAYOUT)
 
 
 ![pcb pics](pcb.PNG)
 
-Potential supported layouts:
+Potential supported layouts (either 6.25u or aek only, not both):
 
 ![layout pics](keyboard-layout.png)
