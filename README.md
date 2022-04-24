@@ -4,7 +4,7 @@ Any recommendations will be ignored and you will be banned, unless you point out
 
 Insta ban if you mention iso support
 
-Board dimension and layout is based on [ai03's kbd8x-mkii's](https://github.com/ai03-2725/KBD8X-MKII-PCB/blob/master), the rest has been reworked from scratch
+Board dimension and layout is based on [ai03's kbd8x-mkii's repo](https://github.com/ai03-2725/KBD8X-MKII-PCB/blob/master), the rest has been reworked from scratch. All credits of the board goes to him and kbdfans
 
 Todo list:
 - ~~Swap out mcu for a different one like rp2040~~ (good luck finding at32u4 for cheap nowadays)
