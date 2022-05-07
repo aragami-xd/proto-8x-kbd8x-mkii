@@ -20,6 +20,9 @@ Todo list:
 
 <img src="proto-8x.png" alt="pcb pic" width="1000"/>
 
+<img src="proto-8x-back.png" alt="pcb pic back" width="1000"/>
+
+
 Layout supports:
 
 <img src="keyboard-layout.png" alt="layout pic" width="1000"/>
